@@ -4,5 +4,6 @@
 *.log
 *.synctex.gz
 *.log
+*.env
 .code_config/
 grader/
